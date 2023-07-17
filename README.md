@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I am Neeraj Adsul
+I specialize in:
+
+* 👯 Leading early phases of product development with complex multidisciplinary integration.
+* Realistic and informed solutions for technical and related business problems.
+* Risk-based rapid design iterations to reach informed and well tested design decisions.
+* Focussing on deliverable and demo-worthy outcomes.
+* Customer centric and requirements driven R&D.
+* Working with design, marketting and executive teams
+
+📫 How to reach me: neeraj[at]125systems.com
 
 <!--
 **neerajadsul/neerajadsul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
