@@ -10,6 +10,17 @@ I specialize in:
 
 📫 How to reach me: neeraj[at]125systems.com
 
+⚡ Favorite Techstack:
+* Bare Metal C (a.k.a. Embedded C), Micro/CircuitPython
+* Jupyter Notebook, NumPy, Matplotlib, Pandas, Scikit-Image/Learn, OpenCV Python.
+* Embedded Rust
+* Convolutional Neural Networks (CNN) with Keras-Tensorflow
+* WxPython and starting to like PySide6
+* Peewee ORM, Quart/Flask, Jinja2, Click 
+* Opto-Electronics Design: KiCad, OpTaliX, LTSpice
+* JDK with Kotlin for Mobile and other apps.
+* IntelliJ PyCharm, IdeaJ, Eclipse for C/C++
+
 <!--
 **neerajadsul/neerajadsul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
