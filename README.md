@@ -2,6 +2,7 @@
 I specialize in:
 
 * 👯 Leading early phases of product development with complex multidisciplinary integration.
+* Proven experience designing and delivering ML and Data based product
 * Realistic and informed solutions for technical and related business problems.
 * Designing data-flow driven and test-driven instruments software and hardware architecture.
 * Risk-based rapid design iterations to reach informed and well tested design decisions.
@@ -12,16 +13,26 @@ I specialize in:
 📫 How to reach me: neeraj[at]125systems.com
 
 ⚡ Favorite Techstack:
-* Bare Metal C (a.k.a. Embedded C), Micro/CircuitPython
-* Jupyter Notebook, NumPy, Matplotlib, Pandas, Scikit-Image/Learn, OpenCV Python.
-* Embedded Rust
-* Schematic/PCB design with KiCAD (or Eagle if you really need to :))
+* Machine Learning: Scikit-Learn, TensorFlow, TensorFlow Lite, PyTorch
+* Data Engineering: SQL, Pandas, SQLite, PostgreSQL, pgAdmin, Apache Kafka, PySpark
+* Software Engineering: Azure DevOps, GitHub Actions , TDD, Risk-based Architecture & Design
 * Convolutional Neural Networks (CNN) with Keras-Tensorflow
-* WxPython and starting to like PySide6
-* Django, Quart/Flask, Jinja2, Click 
+* Django, Quart/Flask, Jinja2, FastAPI
+
+⚡ Business Skill-set:
+* Innovation: Patents as Inventor, IP, New Product Development
+* Leadership and Management:
+*   Team Lead, Reporting to C-level Executives
+*   Business Analysis and Requirements Management
+*   Customer/Stakeholder Focus
+*   ISO 62304 Compliant Software and Documentation
+
+⚡ Other Skills
+* Bare Metal C (a.k.a. Embedded C), Micro/CircuitPython
+* Rust Programming
+* Schematic/PCB design with KiCAD (or Eagle if you really need to :))
 * Opto-Electronics Design: KiCad, OpTaliX, LTSpice
 * JDK with Kotlin for Mobile and other apps.
-* IntelliJ PyCharm, IdeaJ, Eclipse for C/C++
 
 <!--
 **neerajadsul/neerajadsul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
