@@ -7,7 +7,7 @@
 
 - 📊 Scikit-Learn, 🔥 TensorFlow, 📱 TensorFlow Lite, ⚡ PyTorch
 - 🔍 Convolutional Neural Networks (CNN) with Keras-TensorFlow
-- 🏗️ C99 (POSIX), Bare Metal C, 🦀 Rust Programming
+- 🏗️ C99 (POSIX), Bare Metal C, 🦀 Rust Programming, C++11+
 - AWS EC2, S3, API Gateway, Lambda, RDS
 - 🔄 SQL, 📈 Pandas, 📂 SQLite, 🐘 PostgreSQL, 🔧 pgAdmin, 🚀 Apache Kafka, ⚒️ PySpark
 - 🌐 Django, ⚡ Quart/Flask, 📃 Jinja2
@@ -18,7 +18,18 @@ Other Skills:
 📡 Opto-Electronics Design: 🔌 KiCAD, 🔭 OpTaliX, ⚡ LTSpice
 🤖 JDK with 💚 Kotlin for Mobile and other apps
 
+- 🌱 I’m currently learning
+  - Multi-threading and in-memory algorithms with C++
+  - Creating Rust modules for Python
+  - LLM APIs for document-heavy workloads
+
+- Favorite Tools:
+  - VSCodeVim <img src="https://raw.githubusercontent.com/VSCodeVim/Vim/master/images/icon.png" height=30>
+  - PyCharm <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" height=30> IdeaVim
+  - Prototyping with <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height=30>
+
 📫 How to reach me: neeraj[at]125systems.com
+
 
 <!--
 **neerajadsul/neerajadsul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
