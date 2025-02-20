@@ -1,13 +1,14 @@
 👨‍💻 Principal Software Engineer 
-- Proven experience in designing and delivering Machine Learning (ML) and Data-based products.
+- Proven experience in designing and delivering AI and Data-based systems.
+- Biosensor and IVD system development and launch from ground-up.
 - Designing data-flow driven and test-driven software architecture.
 - Risk-based rapid design iterations for informed and well-tested design decisions.
 
 💻 Tech Stack:
 
-- 📊 Scikit-Learn, 🔥 TensorFlow, 📱 TensorFlow Lite, ⚡ PyTorch
-- 🔍 Convolutional Neural Networks (CNN) with Keras-TensorFlow
-- 🏗️ C99 (POSIX), Bare Metal C, 🦀 Rust Programming, C++11+
+- ⚡ PyTorch, 📊 Scikit-Learn, 🔥 TensorFlow, 📱 TensorFlow Lite, 
+- 🔍 Convolutional Neural Networks (CNN) with PyTorch
+- 🏗️ C99/C11 (POSIX), Bare Metal C, 🦀 Rust Programming
 - AWS EC2, S3, API Gateway, Lambda, RDS
 - 🔄 SQL, 📈 Pandas, 📂 SQLite, 🐘 PostgreSQL, 🔧 pgAdmin, 🚀 Apache Kafka, ⚒️ PySpark
 - 🌐 Django, ⚡ Quart/Flask, 📃 Jinja2
@@ -19,9 +20,10 @@ Other Skills:
 🤖 JDK with 💚 Kotlin for Mobile and other apps
 
 - 🌱 I’m currently learning
-  - Multi-threading and in-memory algorithms with C++
-  - Creating Rust modules for Python
   - LLM APIs for document-heavy workloads
+  - Agentic Systems for Business Process and Workflows
+  - Creating Rust modules for Python
+  
 
 - Favorite Tools:
   - VSCodeVim <img src="https://raw.githubusercontent.com/VSCodeVim/Vim/master/images/icon.png" height=30>
